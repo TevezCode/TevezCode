@@ -13,24 +13,11 @@
 ## 💻 Sobre
 
 ```python
-class Estevan:
-
-    def __init__(self):
-        self.area = "Data Engineering"
-        self.stack = [
-            "Python",
-            "SQL",
-            "Apache Airflow",
-            "Qlik Sense",
-            "HTML",
-            "CSS"
-        ]
-
-        self.estudando = [
-            "Backend",
-            "Arquitetura de Software",
-            "Engenharia de Dados"
-        ]
+-------------- Sobre --------------
+Nome: Estevan Lopes Hereck
+Localização: Brasil 🇧🇷
+Aprendendo: HTML5 e CSS3
+-----------------------------------
 ```
 
 ---
