@@ -100,18 +100,6 @@ objetivo:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TevezCode&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TevezCode&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 Streak
-
-<div align="center">
-
 <img src="https://streak-stats.demolab.com?user=TevezCode&theme=github-dark-blue&hide_border=true"/>
 
 </div>
